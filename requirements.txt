@@ -27,7 +27,7 @@ minio==2.2.4
 more-itertools==4.1.0     # via pytest
 pluggy==0.6.0             # via pytest
 psycopg2==2.7.4
-py==1.5.3                 # via pytest
+py==1.10.0                 # via pytest
 pytest-flask==0.10.0
 pytest-mock==1.9.0
 pytest==3.5.0
