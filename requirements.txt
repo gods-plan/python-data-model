@@ -14,7 +14,7 @@ chardet==3.0.4            # via requests
 click==6.7                # via flask
 docutils==0.14            # via botocore
 flask-cors==3.0.2
-flask==0.12.2
+flask==2.2.5
 gevent==1.2.2
 greenlet==0.4.13          # via gevent
 gunicorn==19.7.1
