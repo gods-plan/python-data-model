@@ -23,7 +23,7 @@ itsdangerous==0.24        # via flask
 jinja2==2.10              # via flask
 jmespath==0.9.3           # via boto3, botocore
 markupsafe==1.0           # via jinja2
-minio==2.2.4
+minio==7.2.11
 more-itertools==4.1.0     # via pytest
 pluggy==0.6.0             # via pytest
 psycopg2==2.7.4
